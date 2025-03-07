@@ -37,10 +37,10 @@ The dataset consists of news articles with the following
 
 **Model Performance**
 
- **Training Accuracy**
+**Training Accuracy**
 * Accuracy Score: **98.66%**
   
-  **Testing Accuracy**
+**Testing Accuracy**
 * Accuracy Score: **97.91%**
 
 **Observations:**
