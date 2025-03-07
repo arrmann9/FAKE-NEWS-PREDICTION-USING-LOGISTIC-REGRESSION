@@ -49,7 +49,7 @@ The dataset consists of news articles with the following
 * Further improvements can be made using hyperparameter tuning or advanced deep learning models like LSTMs or BERT.
   
 **Installation & Usage**
-Install Dependencies: *pip install numpy pandas nltk scikit-learn*
+* Install Dependencies: *pip install numpy pandas nltk scikit-learn*
 
 **Future Improvements**
 * Fine-tune hyperparameters for better performance.
