@@ -16,7 +16,8 @@ The dataset consists of news articles with the following
 * NumPy, Pandas (Data Handling)
 * NLTK (Natural Language Processing - Stopwords, Stemming)
 * Scikit-learn (TF-IDF Vectorization, Logistic Regression, Train-Test Split, Accuracy Score)
-  **{Why Use Logistic Regression?**
+
+   **{Why Use Logistic Regression?**
 * Effective for Binary Classification – Since the labels are either real or fake, Logistic Regression is well-suited for this problem.
 * Interpretable Model – Logistic Regression provides probabilities, making predictions explainable.
 * Works Well with TF-IDF – Logistic Regression performs well with textual data transformed into numerical features.
