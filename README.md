@@ -34,12 +34,13 @@ The dataset consists of news articles with the following
 * Split the data into training (80%) and testing (20%) sets.
 * Train a Logistic Regression model on the processed dataset.
 * Evaluate the model using accuracy score.
+
 **Model Performance**
 
-  **Training Accuracy**
-Accuracy Score: **98.66%**
+ **Training Accuracy**
+* Accuracy Score: **98.66%**
   **Testing Accuracy**
-Accuracy Score: **97.91%**
+* Accuracy Score: **97.91%**
 
 **Observations:**
 * The model achieves high accuracy in both training and testing, indicating strong generalization.
